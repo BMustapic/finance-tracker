@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env*
+!.env.example
+backend/data/
+.dart_tool/
+.flutter-plugins*
+build/
+mobile/android/local.properties
+*.tsbuildinfo
